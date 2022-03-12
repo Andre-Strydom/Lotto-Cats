@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A magical documentation site generator.
+ my docs here.
 </p>
 
 <p align="center">
