@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Welcom to Lotto-Cats!
+  Welcome to Lotto-Cats!
 </h1>
 
 <p align="center">
