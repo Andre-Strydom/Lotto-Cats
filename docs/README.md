@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://docsify.js.org">
-    <img alt="docsify" src="https://imgur.com/YmQDJRE">
-  </a>
+  <a href="https://imgur.com/7dACEDP"><img src="https://i.imgur.com/7dACEDP.png" title="source: imgur.com" /></a>
 </p>
 
 <h1 align="center">
