@@ -1,38 +1,54 @@
-## docsify
+<p align="center">
+  <a href="https://docsify.js.org">
+    <img alt="docsify" src="https://imgur.com/YmQDJRE">
+  </a>
+</p>
 
-> A magical documentation site generator.
+<h1 align="center">
+  Welcom to Lotto-Cats!
+</h1>
 
-## What it is
+<p align="center">
+Stand a chase to win your share of 3250 Sol
+</p>
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+<p align="center">
 
-See the [Quick start](quickstart.md) guide for more details.
 
-## Features
+</p>
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
 
-## Examples
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
 
-## Donate
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
 
-## Community
+## Links
 
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+- [Minting Site](https://docsifyjs.netlify.com/)
+- [Documentation](https://docsify.js.org)
+- [Discord](https://github.com/docsifyjs/docsify-cli)
+- [GitHub](https://unpkg.com/docsify/)
+
+## The plan
+
+- 10000 NFTS
+- 0.5 Sol per Mint
+- 65% to the Lottery 
+- 10% for planting trees to offset the emmesions
+- 25% to the Creators
+- Equal chance to win regardless of NFT
+- Comunity will vote on the amount of winners and what percentage of the prize pool each winner will get.
+
+## When
+
+If you're reading this the mint should be live. Getting one should be easy, people shouldn't have to grind for a whitelist spot or have to resort to making fake accounts to increase their Discord Level. Once all 10000 Mints are sold, a draw will be held. 
+
+
+## Why
+
+A Lottery system felt like a fun way to raise the funds I need, while still adding utility to the project. The funds raised by Lotto-Cats will be used on a larger project I am planning to build that requires a bigger team. Owning a lotto cat however will give no advantage for that project, other than knowing about said project early, and the chance to win your share of 3250 Sol.
+
 
 ## Special Thanks
 
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="100px"></a>
+I just want tho thank you for taking the time to read my docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing me 1 step closer to achieving my dreams!
