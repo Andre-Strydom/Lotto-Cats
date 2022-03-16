@@ -61,4 +61,4 @@ A Lottery system felt like a fun way to raise the funds for charity while doing 
 
 ## Special Thanks
 
-I just want to thank you for taking the time to read my docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing me 1 step closer to achieving my dreams as well as making the world a better place!
+I just want to thank you for taking the time to read my docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing me one step closer to achieving my dreams as well as making the world a better place!
