@@ -43,7 +43,6 @@ The background color is generated randomly by default. You can customize the bac
 
 # docsify <small>3.5</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start)
 
 <!-- background image -->
