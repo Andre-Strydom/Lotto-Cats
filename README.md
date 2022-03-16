@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-Stand a chase to win your share of 1125 Sol
+Stand a chase to win your share of 1250 Sol
 </p>
 
 <p align="center">
