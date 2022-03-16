@@ -34,7 +34,7 @@ Lotto-Cats is a monthly run lottery that will eventually be used to raise funds 
 
 ## Why should I buy a Lotto-Cat?
 
-Other than the chance to win $100 000. As a thank you for getting us started, any owner of an OG Lotto-Cat will always be allowed to mint any future Lott-Cats early each month. Lotto-Cats has no, nor ever will have a Whitelist or presale. Owning a OG cat  will be the only way to get an advantage moving forward.
+Other than the chance to win 1250 Sol. As a thank you for getting us started, any owner of an OG Lotto-Cat will always be allowed to mint any future Lott-Cats early each month. Lotto-Cats has no, nor ever will have a Whitelist or presale. Owning a OG cat  will be the only way to get an advantage moving forward.
 
 ## The Mint
 
