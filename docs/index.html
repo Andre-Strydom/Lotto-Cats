@@ -57,12 +57,6 @@
     <div id="app">Loading ...</div>
     <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
     <script>
-      // Set html "lang" attribute based on URL
-      var lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
-
-      if (lang) {
-        document.documentElement.setAttribute('lang', lang[1]);
-      }
 
       // Docsify configuration
       window.$docsify = {
@@ -94,14 +88,8 @@
           host: '//matomo.thunderwave.de',
           id: 6,
         },
-        name: 'docsify',
-        nameLink: {
-          '/es/': '#/es/',
-          '/de-de/': '#/de-de/',
-          '/ru-ru/': '#/ru-ru/',
-          '/zh-cn/': '#/zh-cn/',
-          '/': '#/',
-        },
+        name: 'Lotto-Cats',
+
         search: {
           noData: {
             '/es/': '¡No hay resultados!',
