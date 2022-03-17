@@ -4,4 +4,4 @@
 
 > Making the world a better place, should be fun.
 
-[Getting Started](#docsify)
+[Getting Started](#README)
