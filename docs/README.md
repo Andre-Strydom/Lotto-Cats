@@ -1,14 +1,5 @@
-<p align="center">
-  <a><img src="https://i.imgur.com/7dACEDP.png" width="360px" title="source: imgur.com" /></a>
-  </a>
-</p>
-
-<h1 align="center">
- Welcome to Lotto-Cats!
-</h1>
 
 
-</p>
 
 
 
