@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Welcome to Lotto-Cats!
+  ## Welcome to Lotto-Cats!
 </h1>
 
 <p align="center">
