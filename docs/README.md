@@ -17,9 +17,9 @@
 
 
 
-## What is Lotto-Cats?
+## Who are we?
 
-Lotto-Cats is a monthly run lottery that will be used to raise funds for charities. Each month a mint will be held, then a percentage of the funds raised will be donated to a charity voted for by the community. Some funds will go to the team for managing the project, but the majority(75%) will go into the Lottery. Owning that months nft will enter you into the draw.
+Lotto-Cats is a monthly run lottery used to raise funds for charities. Each month a mint will be held, then a percentage of the funds raised will be donated to a charity voted for by the community. Some funds will go to the team for managing the project, but the majority(75%) will go into the Lottery. Owning that months nft will enter you into the draw.
 
 ## Why should I buy a Lotto-Cat?
 
@@ -45,16 +45,14 @@ If you're reading this the mint should be live. Getting one should be easy, peop
 
 ## Why
 
-A Lottery system felt like a fun way to raise the funds for charity while doing something I love, building web3 projects. The first mint has a small percentage going to charitable contributions, but I will be increasing this percentage by reducing the amount allocated to the team going forward. Right now we need the initial funds to get the infrastructure in place to make Lotto-Cats a long term charitable fund-raising protocol.
+A Lottery system felt like a fun way to raise the funds for charity while doing something we love, building web3 projects. The first mint has a small percentage going to charitable contributions, but we will be increasing this percentage by reducing the amount allocated to the team going forward. Right now we need the initial funds to get the infrastructure in place to make Lotto-Cats a long term charitable fund-raising protocol.
 
 
 ## Special Thanks
 
-I just want to thank you for taking the time to read my docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing me one step closer to achieving my dreams as well as making the world a better place!
+I just want to thank you for taking the time to read our docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing us one step closer to achieving our dreams as well as making the world a better place!
 
 ## Links
 
 - [Minting Site](https://docsifyjs.netlify.com/)
-- [Documentation](https://docsify.js.org)
-- [Discord](https://github.com/docsifyjs/docsify-cli)
-- [GitHub](https://unpkg.com/docsify/)
+- [Discord](https://discord.gg/8RdXYbKh5U)
