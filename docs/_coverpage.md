@@ -2,11 +2,6 @@
 
 # docsify <small>4.12.2</small>
 
-> A magical documentation site generator.
+> Making the world a better place, should be fun.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)
