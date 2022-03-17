@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/7dACEDP"><img src="https://i.imgur.com/7dACEDP.png" width="360px" title="source: imgur.com" /></a>
+  <a><img src="https://i.imgur.com/7dACEDP.png" width="360px" title="source: imgur.com" /></a>
   </a>
 </p>
 
@@ -7,12 +7,6 @@
  Welcome to Lotto-Cats!
 </h1>
 
-<p align="center">
-Stand a chase to win your share of 1250 Sol
-</p>
-
-<p align="center">
-
 
 </p>
 
@@ -21,20 +15,15 @@ Stand a chase to win your share of 1250 Sol
 
 
 
-## Links
 
-- [Minting Site](https://docsifyjs.netlify.com/)
-- [Documentation](https://docsify.js.org)
-- [Discord](https://github.com/docsifyjs/docsify-cli)
-- [GitHub](https://unpkg.com/docsify/)
 
-## The protocol
+## What is Lotto-Cats?
 
-Lotto-Cats is a monthly run lottery that will eventually be used to raise funds for charities. Each month a mint will be held, then a percentage of the funds raised will be donated to a charity voted for by the community.
+Lotto-Cats is a monthly run lottery that will be used to raise funds for charities. Each month a mint will be held, then a percentage of the funds raised will be donated to a charity voted for by the community. Some funds will go to the team for managing the project, but the majority(75%) will go into the Lottery. Owning that months nft will enter you into the draw.
 
 ## Why should I buy a Lotto-Cat?
 
-Other than the chance to win 1250 Sol. As a thank you for getting us started, any owner of an OG Lotto-Cat will always be allowed to mint any future Lott-Cats early each month. Lotto-Cats has no, nor ever will have a Whitelist or presale. Owning a OG cat  will be the only way to get an advantage moving forward.
+Other than the chance to win 1250 Sol and helping us build a charity, as a thank you for getting us started, any owner of an OG Lotto-Cat will be allowed to mint any future Lotto-Cats early each month. Lotto-Cats has no, nor ever will have a Whitelist or presale. Owning a OG cat  will be the only way to get an advantage moving forward.
 
 ## The Mint
 
@@ -62,3 +51,10 @@ A Lottery system felt like a fun way to raise the funds for charity while doing 
 ## Special Thanks
 
 I just want to thank you for taking the time to read my docs, and if you purchased a Lotto-Cat, shared the product or even just joined the discord, you are a Rockstar! Thanks for bringing me one step closer to achieving my dreams as well as making the world a better place!
+
+## Links
+
+- [Minting Site](https://docsifyjs.netlify.com/)
+- [Documentation](https://docsify.js.org)
+- [Discord](https://github.com/docsifyjs/docsify-cli)
+- [GitHub](https://unpkg.com/docsify/)
