@@ -1,7 +1,7 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.12.2</small>
+# Lotto-Cats
 
-> Making the world a better place, should be fun.
+> Beacause making the world a better place, should be fun.
 
-[Getting Started](#README)
+[Getting Started](#who are we?)
