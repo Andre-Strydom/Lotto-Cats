@@ -1,8 +1,12 @@
+<!-- background color -->
+
+![color](#f0f0f0)
 
 <p align="center">
   <a><img src="https://i.imgur.com/7dACEDP.png" width="360px" title="source: imgur.com" /></a>
   </a>
 </p>
+
 
 # Lotto-Cats
 
