@@ -41,4 +41,4 @@
 - Aiming for 100K holders
 - At least $1M donated to charities
 - Physical collectables
-- Creating the features the community want to see
+- Creating features the community want to see
