@@ -1,16 +1,11 @@
 - General Info
 
   - [Home](README.md)
+  - [Roadmap](ROADMAP.md)
 
 - Roadmap
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [Roadmap](ROADMAP.md)
 
 - Guide
 
