@@ -42,3 +42,12 @@
 - At least $1M donated to charities
 - Physical collectables
 - Creating features the community want to see
+
+---
+**NOTE**
+
+This roadmap is not exhaustive and can be subject to changes at any time. We will make sure our community is aware of any change made to this roadmap.
+
+---
+
+
